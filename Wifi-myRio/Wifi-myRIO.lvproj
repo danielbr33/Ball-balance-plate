@@ -110,11 +110,9 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Engine.vi" Type="VI" URL="../Engine.vi"/>
 		<Item Name="Engine2.vi" Type="VI" URL="../Engine2.vi"/>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="ReadCoord.vi" Type="VI" URL="../../UART_myRIO/ReadCoord.vi"/>
-		<Item Name="ReadCoords2.vi" Type="VI" URL="../ReadCoords2.vi"/>
-		<Item Name="Server2.vi" Type="VI" URL="../Server2.vi"/>
-		<Item Name="Server3.vi" Type="VI" URL="../Server3.vi"/>
+		<Item Name="Main.vi" Type="VI" URL="../../../Uzytkownicy/Danie/Download/Motor Adapter Code - LabVIEW 2015/Motor Adapter Code - LabVIEW 2015/Main.vi"/>
+		<Item Name="ReadCoord.vi" Type="VI" URL="../ReadCoord.vi"/>
+		<Item Name="Server.vi" Type="VI" URL="../Server.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AI IRQ FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/IRQ/typedefs/AI IRQ FPGA Reference.ctl"/>
