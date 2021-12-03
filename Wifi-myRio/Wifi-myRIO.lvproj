@@ -111,6 +111,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Engine.vi" Type="VI" URL="../Engine.vi"/>
 		<Item Name="Engine2.vi" Type="VI" URL="../Engine2.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../../../Uzytkownicy/Danie/Download/Motor Adapter Code - LabVIEW 2015/Motor Adapter Code - LabVIEW 2015/Main.vi"/>
+		<Item Name="PID_regulator.vi" Type="VI" URL="../PID_regulator.vi"/>
 		<Item Name="ReadCoord.vi" Type="VI" URL="../ReadCoord.vi"/>
 		<Item Name="Server.vi" Type="VI" URL="../Server.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
