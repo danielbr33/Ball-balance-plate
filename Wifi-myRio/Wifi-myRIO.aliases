@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "192.168.137.1"
+My Computer = "192.168.120.251"
 
 [NI-myRIO-1900-PM]
 NI-myRIO-1900-PM = "192.168.137.133"
